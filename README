@@ -1,0 +1,4 @@
+We have a dictionary student. We change the age key of the dictionary to 21. We add a key grade with value "A".
+we create an array subjects with elements "Maths","Physics" and "Chemistry". We push elements one by one from 
+the subjects array to the courses key of the student dictionary. Next, we show the index of the element "Physics".
+Then, we slice the array to create a new array with elements ,"Maths" and "Physics". 
